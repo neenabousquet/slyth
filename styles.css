@@ -1,12 +1,12 @@
-h1{color:#B45E4B;font-family: Impact;font-size: 202px}
+h1{color:#5EF31E;font-family: Impact;font-size: 202px;text-align:center}
 
 	body{background-color: #D1D9C2}
 
 		p{color:#FFFFFF; font-family: Helvetica Neue: font-size:152px}
 
-img:hover {filter:#D3EACC alpha(opacity=60);
+img:hover {filter:#9FE7EE alpha(opacity=60);
     opacity: .8;}
 
-    img style{position: absolute;top: 35px;left: 170px; width: 50pc; height: 50px" src="forrest.jpg"}
+    img style{position: center;top: 35px;left: 170px; width: 50pc; height: 50px" src="environment.jpg"}
 
-    <img src=”slyth.jpg” ALIGN=”left” HSPACE=”50” VSPACE=”50”/> 
+    <img src=”slyth.png” ALIGN=”left” HSPACE=”50” VSPACE=”50”/> 
